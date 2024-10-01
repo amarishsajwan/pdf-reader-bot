@@ -1,5 +1,3 @@
-Certainly! Here is a detailed README for your GitHub repository:
-
 ---
 
 # PDF-based QA Bot with Langchain and OpenAI
